@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="Z{-3]~g7o_EkzhMD:x;I" x="0" y="0"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="TM:%,?+Q0UY9{IzbEIIj"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id="zaw/8F;QNaYMGq:F(vBH"><value name="pause"><shadow type="timePicker" id="|LF]t{{6Df.]4bf}hyy["><field name="ms">500</field></shadow></value><next><block type="device_print_message" id="(n4v+~|TRabpT_d!yK9q"><value name="text"><shadow type="text" id="yxKC`$@h)H-(G[n]67Tn"><field name="TEXT">Paper</field></shadow></value></block></next></block></next></block></statement></block><block type="device_button_event" id="G}PRqBhN:IR+x=QV-a0M" x="-192" y="20"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="1%QyAn91gfY`b+pePF6u"><field name="LEDS">`
+        # # . . # 
+        # # . # . 
+        . . # . . 
+        # # . # . 
+        # # . . #
+        `</field><next><block type="device_pause" id="F2-TggGP53eH9-E_~/8*"><value name="pause"><shadow type="timePicker" id="mE9DLGIbhSo4d6Jn=SW7"><field name="ms">500</field></shadow></value><next><block type="device_print_message" id="#7|{6D?F7o8VBH+u4{~G"><value name="text"><shadow type="text" id="I^r}D9f1OV([~Qm0l*R["><field name="TEXT">Scissors</field></shadow></value></block></next></block></next></block></statement></block><block type="device_button_event" id="%aoZ75S34p%}9?kT.SQ?" x="255" y="1"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="AF|%Tj4Y%V#EL;0I`}!E"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="E`^By7XYiSplcJJDnJ=T"><value name="pause"><shadow type="timePicker" id="QV{~N0vPje{UwdqGB*2k"><field name="ms">500</field></shadow></value><next><block type="device_print_message" id="of+,NFEXy}s7`nc?vN)+"><value name="text"><shadow type="text" id="ll+S_adkLqr$Z-{2;W4l"><field name="TEXT">Rock</field></shadow></value></block></next></block></next></block></statement></block></xml>
